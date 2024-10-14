@@ -7,5 +7,6 @@ This was used for Git training.
 * Point 3
 * Point 4
 * Point 5
+* Point 6
 
 This is my new README.md file.
