@@ -8,5 +8,6 @@ This was used for Git training.
 * Point 4
 * Point 5
 * Point 6
+* Point 7 (christelle branch)
 
 This is my new README.md file.
